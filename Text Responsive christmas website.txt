@@ -1,0 +1,11 @@
+========== HEADER ==========
+.nav__logo
+Christmas
+
+.nav__link
+Home - About - Gifts - Share - Contact
+
+
+========== HOME ==========
+.home__title
+Merry <br> Christmas
